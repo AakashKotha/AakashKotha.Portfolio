@@ -15,9 +15,10 @@
 ✔️ About\
 ✔️ Interests\
 ✔️ Education\
-✔️ Online Certification\
+✔️ Online Certifications\
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
+✔️ Extracurricular \
 ✔️ Resume\
 ✔️ Contact Info
